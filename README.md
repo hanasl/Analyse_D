@@ -11,9 +11,9 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Introduction</a>
+      <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Why is it important to analyze student performance?</a></li>
+        <li></a></li>
       </ul>
      </li>
      <li>
@@ -21,28 +21,29 @@
       <ul> </ul>
     </li>
     <li>
-      <a href="#getting-started">Quick look at the data</a>
+      <a href="#getting-started">Visualize the genre popularity trend</a>
     </li>
     <ul>
-        <li><a href="#built-with">Data</a></li>
+        <li></li>
       </ul>
       <ul>
-        <li><a href="#built-with">Attribute Information</a></li>
+        <li></li>
       </ul>
     <li>
-      <a href="#getting-started">Visualize missing values</a>
+      <a href="#getting-started">Data transformation</a>
     </li>
      <li>
-      <a href="#getting-started">Data Preparation</a>
+      <a href="#getting-started">Onfidence intervals for regression parameters :n</a>
     </li>
     <ul>
-        <li><a href="#built-with">Creating new columns</a></li>
+        <li></li>
       </ul>
       <ul>
-        <li><a href="#built-with">Grading System</a></li>
+        <li></li>
       </ul>
     <li>
-      <a href="#getting-started">Data Visualization</a>
+      <a href="#getting-started">Should Disney make more action and adventure movies?
+ </a>
     </li>
     
 
@@ -55,12 +56,6 @@
 In this notebook, we will explore a dataset of Disney movies and analyze what contributes to the success of Disney movies. The data contains 579 Disney movies with six features: movie title, release date, genre, MPAA rating, total gross, and inflation-adjusted gross.
 
 
-## :interrobang: Why is it important to analyze student performance?
-
-Analyzing student work is an essential part of teaching. Teachers assign, collect and examine student work all the 
-time to assess student learning and to revise and improve teaching. Ongoing assessment of student learning allows 
-teachers to engage in continuous quality improvement of their courses. Many factors can influence a student's performance,
-including the influence of the parents' educational background, test preparation, student health, and so on.
 
 ## :gear: Loading libraries and data
 
